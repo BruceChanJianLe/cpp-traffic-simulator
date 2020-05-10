@@ -10,3 +10,12 @@ This project is run inside docker. Please look at my other repo like [docker-set
 
 **Project Schematic**
 ![img](img/schematic.png)
+
+## Building and Running
+```bash
+mkdir build
+cd build
+cmake ..
+make
+./cpp-traffic-simulator
+```
