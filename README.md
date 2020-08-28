@@ -1,6 +1,6 @@
 # CPP Traffic Simulator
 
-This is a project from udacity C++ nanodegree program. This project demonstrated how the C++ concurency being used.
+This is a project from udacity C++ nanodegree program. This project demonstrated how the C++ concurency being used. Please read the CMakeLists.txt to identify the OpenCV version to be installed.  
 
 ## Project Overview
 
